@@ -1,0 +1,20 @@
+{
+    "embeddings": [
+        {
+            "tensorName": "My tensor",
+            "tensorShape": [
+                1000,
+                50
+            ],
+            "tensorPath": "https://github.com/wrryu09/TYPOLAB-DATA/blob/main/vectorData.tsv",
+            "metadataPath": "https://github.com/wrryu09/TYPOLAB-DATA/blob/main/metadata.tsv",
+            "sprite": {
+                "imagePath": "https://github.com/wrryu09/TYPOLAB-DATA/blob/main/sprites.png",
+                "singleImageDim": [
+                    32,
+                    32
+                ]
+            }
+        }
+    ]
+}
