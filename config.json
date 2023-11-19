@@ -11,8 +11,8 @@
             "sprite": {
                 "imagePath": "https://raw.githubusercontent.com/wrryu09/TYPOLAB-DATA/main/sprites.png",
                 "singleImageDim": [
-                    32,
-                    32
+                    244,
+                    244
                 ]
             }
         }
