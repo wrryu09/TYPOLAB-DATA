@@ -1,0 +1,11 @@
+.fontCard {
+  color: green;
+  height: 224px;
+  width: 224px;
+  background-color: white;
+}
+.cardSlot {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
