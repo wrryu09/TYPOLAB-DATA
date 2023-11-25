@@ -1,0 +1,23 @@
+.fontCard {
+  color: black;
+  height: 224px;
+  width: 224px;
+  background-color: white;
+  font-size: 48px;
+  align-items: center;
+}
+.clicked {
+  background-color: grey;
+}
+.notClicked {
+  background-color: white;
+}
+.txt {
+  padding-left: 20px;
+  margin: 0;
+}
+.cardSlot {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}

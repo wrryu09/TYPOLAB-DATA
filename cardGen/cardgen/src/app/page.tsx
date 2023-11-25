@@ -1,5 +1,5 @@
 import React from "react";
-import Card from "@/components/Card";
+import CardList from "@/components/CardList";
 
 type Props = {};
 
@@ -7,7 +7,7 @@ const page = (props: Props) => {
   return (
     <div>
       <div style={{ color: "white" }}>Font Card Generator</div>
-      <Card />
+      <CardList />
     </div>
   );
 };
